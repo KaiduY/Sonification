@@ -5,7 +5,7 @@ import glob
 
 project_path  = Path(__file__).parent
 
-def exemple(random = False, n = 0):
+def example(random = False, n = 0):
     files = glob.glob(glob.escape(project_path) + "/Data/*.wav")
     if random:
         file = choice(files)
@@ -13,7 +13,7 @@ def exemple(random = False, n = 0):
         file = files[n]
     else:
         raise Exception(f'There are only {len(files)} exemples available!')
-    
+    print(f'Example is {file}')
     return wavfile.read(file)
 
 
