@@ -1,1 +1,12 @@
-{"data_entry": [{"index": 0, "name": "M31", "type": "galaxy", "source": "", "colorspace": "", "filename": "m31.json"}, {"index": 1, "name": "M31", "type": "galaxy", "source": "", "colorspace": "", "filename": "m31.json"}, {"index": 2, "name": "M31", "type": "galaxy", "source": "", "colorspace": "", "filename": "m31.json"}, {"index": 3, "name": "M31", "type": "galaxy", "source": "", "colorspace": "", "filename": "m31.json"}, {"index": 4, "name": "M31", "type": "galaxy", "source": "", "colorspace": "", "filename": "m31.json"}, {"index": 5, "name": "M31", "type": "galaxy", "source": "", "colorspace": "", "filename": "m31.json"}, {"index": 6, "name": "M31", "type": "galaxy", "source": "", "colorspace": "", "filename": "m31.json"}, {"index": 7, "name": "M31", "type": "galaxy", "source": "", "colorspace": "", "filename": "m31.json"}, {"index": 8, "name": "M31", "type": "galaxy", "source": "", "colorspace": "", "filename": "m31.json"}, {"index": 9, "name": "M31", "type": "galaxy", "source": "", "colorspace": "", "filename": "m31.json"}]}
+{
+    "data_entry": [
+        {
+            "index": 0,
+            "name": "m31",
+            "type": "galaxy",
+            "source": "",
+            "colorspace": "",
+            "filename": "m31.json"
+        }
+    ]
+}
