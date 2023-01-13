@@ -1,9 +1,13 @@
 # Sonification
 ## What is sonification?
 TO BE DONE -- can somebody add a small description here
+The sonification is the action of turning astronomical images into sound. But people have already done that. What we are trying to do is the opposite. From a sound wave we want to extract the information on what actually was in the picture, e.g., the number of stars, specific astronomical objects, like clusters or nebulas, or the average magnitude.
 
 ## Our goal
-TO BE DONE -- can somebody explain what we discussed on Friday and add the diagram that Hana drew.
+
+Using phyton and our creativity :D we are going to write a program which will transform sound wave (sound file) into data about an astronomical picture. We are starting from writing a program, which will count the number of the stars by counting the peaks which appear in the waterfall graph extracted from the sound file.
+![alt text](Pictures/Sonification_plan.jpeg)
+
 ## Current state of the project
 All the example files are in [this folder](/Data).
 An interesting project about turning visual data into soundwaves [here](https://astronify.readthedocs.io/en/latest/).
